@@ -1,0 +1,76 @@
+.padLR{
+	padding-right: 2.5%;
+	padding-left: 2.5%;
+}
+
+.pt{
+	padding-top: 11%;
+}
+
+.mt{
+	position: absolute;
+	top: 1%;
+	left: 16%;
+}
+
+.is{
+	background-size: cover;
+}
+
+.parallax-container {
+    box-shadow: 1px -1px 5px black;
+    height: 680px;
+}
+
+.section{
+	box-shadow: 1px -1px 5px black;
+}
+
+.jumbo{
+	position: absolute;
+	top: 30%;
+	left: 15%;
+	text-shadow: 1px 1px 5px black;
+	text-align: left;
+}
+
+.carousel{
+	height: 250px !important;
+	box-shadow: 1px -1px 5px black;
+}
+
+.at{
+	text-align: justify;
+}
+
+.isize{
+	width: 4%;
+}
+
+.isize2{
+	width: 100%;
+	margin-top: 15%;
+}
+
+.bs{
+	box-shadow: 1px -1px 5px black;
+}
+
+
+.input-field label{
+     color: white;
+}
+
+.pp{
+	padding-left: 40px;
+	padding-right: 40px;
+	margin-left: -10px;
+}
+
+.mt2{
+	margin-top: 10%;
+}
+
+.imgmodal{
+	width: 60%;
+}
